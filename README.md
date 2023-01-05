@@ -27,9 +27,9 @@ File main.f90 contains the main program, where you can choose the CG
 parameter used. Modify myproblem routine to solve your own problem. 
 Alternatively, set a test problem in main routine - see myproblem.f90.
 
-Instructions:
 
-—————————————
+
+Instructions:
 
 The codes are written in Fortran 90. To compile and run NLCG, users need 
 to install gcc.
