@@ -1,7 +1,7 @@
 This directory contains the nonlinear conjugate gradient method (NLCG)
 for solving unconstrained multiobjective optimization problems described in
 
-L. R. Lucambio Pérez and L. F. Prudente, Non-linear conjugate gradient 
+L. R. Lucambio Pérez and L. F. Prudente, Nonlinear conjugate gradient 
 methods for vector optimization, SIAM Journal on Optimization 28(3), 
 pp. 2690-2720, 2018.
 
