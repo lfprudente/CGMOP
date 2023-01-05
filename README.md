@@ -34,7 +34,7 @@ Instructions:
 The codes are written in Fortran 90. To compile and run NLCG, users need 
 to install gcc.
 
-1) Go to folder NLCG and type 
+1) Go to the main folder and type 
 
 make
 
