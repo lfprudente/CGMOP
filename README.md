@@ -12,7 +12,6 @@ Hager-Zhang conjugate gradient method for vector optimization,
 Computational Optimization and Applications 76(3), pp. 889-916, 2020.
 
 Last update: October of 2020
-License: NLCG is released under the GNU General Public License
 
 This folder also contains the third-party free codes which are used by NLCG: 
 1) software Algencan 3.1.1;
@@ -33,7 +32,7 @@ Instructions:
 —————————————
 
 The codes are written in Fortran 90. To compile and run NLCG, users need 
-to install gfortran.
+to install gcc.
 
 1) Go to folder NLCG and type 
 
