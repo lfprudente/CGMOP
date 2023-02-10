@@ -1,15 +1,15 @@
 This directory contains the nonlinear conjugate gradient method (NLCG)
 for solving unconstrained multiobjective optimization problems described in
 
-L. R. Lucambio Pérez and L. F. Prudente, Nonlinear conjugate gradient 
-methods for vector optimization, SIAM Journal on Optimization 28(3), 
+L. R. Lucambio Pérez and L. F. Prudente, [Nonlinear conjugate gradient 
+methods for vector optimization](https://epubs.siam.org/doi/abs/10.1137/17M1126588), *SIAM Journal on Optimization* 28(3), 
 pp. 2690-2720, 2018.
 
 and
 
-M. L. N. Gonçalves and L. F. Prudente, On the extension of the 
-Hager-Zhang conjugate gradient method for vector optimization, 
-Computational Optimization and Applications 76(3), pp. 889-916, 2020.
+M. L. N. Gonçalves and L. F. Prudente, [On the extension of the 
+Hager-Zhang conjugate gradient method for vector optimization](https://link.springer.com/article/10.1007/s10589-019-00146-1), 
+*Computational Optimization and Applications* 76(3), pp. 889-916, 2020.
 
 Last update: October of 2020
 
